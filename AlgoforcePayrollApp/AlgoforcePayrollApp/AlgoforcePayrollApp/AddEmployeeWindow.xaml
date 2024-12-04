@@ -1,0 +1,45 @@
+<Window x:Class="AlgoforcePayrollApp.AddEmployeeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Add Employee" Height="450" Width="400">
+    <Grid Margin="10">
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <!-- Employee Name -->
+                <TextBlock Text="Employee Name" Margin="0,10,0,0" />
+                <TextBox Name="NameTextBox" TextChanged="NameTextBox_TextChanged" />
+
+                <!-- Hourly Rate -->
+                <TextBlock Text="Hourly Rate" Margin="0,10,0,0" />
+                <TextBox Name="HourlyRateTextBox" />
+
+                <!-- Hours Worked -->
+                <TextBlock Text="Hours Worked" Margin="0,10,0,0" />
+                <TextBox Name="HoursWorkedTextBox" />
+
+                <!-- Overtime Hours -->
+                <TextBlock Text="Overtime Hours" Margin="0,10,0,0" />
+                <TextBox Name="OvertimeHoursTextBox" />
+
+                <!-- Loan -->
+                <TextBlock Text="Loan (Optional)" Margin="0,10,0,0" />
+                <TextBox Name="LoanTextBox" />
+
+                <!-- SSS Loan -->
+                <TextBlock Text="SSS Loan (Optional)" Margin="0,10,0,0" />
+                <TextBox Name="SSSLoanTextBox" />
+
+                <!-- Pag-ibig Loan -->
+                <TextBlock Text="Pag-ibig Loan (Optional)" Margin="0,10,0,0" />
+                <TextBox Name="PagIbigLoanTextBox" />
+
+                <!-- De Minimis -->
+                <TextBlock Text="De Minimis Allowance" Margin="0,10,0,0" />
+                <TextBox Name="DeMinimisTextBox" />
+
+                <!-- Add Employee Button -->
+                <Button Content="Add Employee" Click="AddEmployee_Click" Margin="0,20,0,0" />
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>
