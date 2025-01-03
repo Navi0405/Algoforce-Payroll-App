@@ -1,0 +1,7 @@
+C:\Users\teama\Documents\Algoforce Payroll\AlgoforcePayrollApp.exe
+C:\Users\teama\Documents\Algoforce Payroll\AlgoforcePayrollApp.dll
+C:\Users\teama\Documents\Algoforce Payroll\AlgoforcePayrollApp.deps.json
+C:\Users\teama\Documents\Algoforce Payroll\AlgoforcePayrollApp.runtimeconfig.json
+C:\Users\teama\Documents\Algoforce Payroll\AlgoforcePayrollApp.pdb
+C:\Users\teama\Documents\Algoforce Payroll\AlgoforcePayrollSystem.dll
+C:\Users\teama\Documents\Algoforce Payroll\AlgoforcePayrollSystem.pdb

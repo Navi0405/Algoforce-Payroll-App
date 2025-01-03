@@ -1,0 +1,4 @@
+C:\Users\teama\Documents\AlgoforcePayrollSystem\AlgoforcePayrollSystem\obj\Debug\net8.0\AlgoforcePayrollSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teama\Documents\AlgoforcePayrollSystem\AlgoforcePayrollSystem\obj\Debug\net8.0\AlgoforcePayrollSystem.AssemblyInfoInputs.cache
+C:\Users\teama\Documents\AlgoforcePayrollSystem\AlgoforcePayrollSystem\obj\Debug\net8.0\AlgoforcePayrollSystem.AssemblyInfo.cs
+C:\Users\teama\Documents\AlgoforcePayrollSystem\AlgoforcePayrollSystem\obj\Debug\net8.0\AlgoforcePayrollSystem.csproj.CoreCompileInputs.cache

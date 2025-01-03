@@ -1,0 +1,16 @@
+C:\Users\teama\Documents\AlgoforcePayrollApp\AlgoforcePayrollApp\AlgoforcePayrollApp\obj\Debug\net8.0-windows\AddEmployeeWindow.baml
+C:\Users\teama\Documents\AlgoforcePayrollApp\AlgoforcePayrollApp\AlgoforcePayrollApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\teama\Documents\AlgoforcePayrollApp\AlgoforcePayrollApp\AlgoforcePayrollApp\obj\Debug\net8.0-windows\PayrollHistoryWindow.baml
+C:\Users\teama\Documents\AlgoforcePayrollApp\AlgoforcePayrollApp\AlgoforcePayrollApp\obj\Debug\net8.0-windows\PayrollWindow.baml
+C:\Users\teama\Documents\AlgoforcePayrollApp\AlgoforcePayrollApp\AlgoforcePayrollApp\obj\Debug\net8.0-windows\App.baml
+C:\Users\teama\Documents\AlgoforcePayrollApp\AlgoforcePayrollApp\AlgoforcePayrollApp\obj\Debug\net8.0-windows\AddEmployeeWindow.g.cs
+C:\Users\teama\Documents\AlgoforcePayrollApp\AlgoforcePayrollApp\AlgoforcePayrollApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\teama\Documents\AlgoforcePayrollApp\AlgoforcePayrollApp\AlgoforcePayrollApp\obj\Debug\net8.0-windows\PayrollHistoryWindow.g.cs
+C:\Users\teama\Documents\AlgoforcePayrollApp\AlgoforcePayrollApp\AlgoforcePayrollApp\obj\Debug\net8.0-windows\PayrollWindow.g.cs
+C:\Users\teama\Documents\AlgoforcePayrollApp\AlgoforcePayrollApp\AlgoforcePayrollApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\teama\Documents\AlgoforcePayrollApp\AlgoforcePayrollApp\AlgoforcePayrollApp\obj\Debug\net8.0-windows\AlgoforcePayrollApp_MarkupCompile.cache
+C:\Users\teama\Documents\AlgoforcePayrollApp\AlgoforcePayrollApp\AlgoforcePayrollApp\obj\Debug\net8.0-windows\AlgoforcePayrollApp.g.resources
+C:\Users\teama\Documents\AlgoforcePayrollApp\AlgoforcePayrollApp\AlgoforcePayrollApp\obj\Debug\net8.0-windows\AlgoforcePayrollApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teama\Documents\AlgoforcePayrollApp\AlgoforcePayrollApp\AlgoforcePayrollApp\obj\Debug\net8.0-windows\AlgoforcePayrollApp.AssemblyInfoInputs.cache
+C:\Users\teama\Documents\AlgoforcePayrollApp\AlgoforcePayrollApp\AlgoforcePayrollApp\obj\Debug\net8.0-windows\AlgoforcePayrollApp.AssemblyInfo.cs
+C:\Users\teama\Documents\AlgoforcePayrollApp\AlgoforcePayrollApp\AlgoforcePayrollApp\obj\Debug\net8.0-windows\AlgoforcePayrollApp.csproj.CoreCompileInputs.cache

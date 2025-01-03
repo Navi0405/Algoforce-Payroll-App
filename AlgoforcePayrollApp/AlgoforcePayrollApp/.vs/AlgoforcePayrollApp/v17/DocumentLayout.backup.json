@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB6B486-0984-4875-9FAF-FB1E8C555347}|AlgoforcePayrollApp\\AlgoforcePayrollApp.csproj|c:\\users\\teama\\documents\\algoforcepayrollapp\\algoforcepayrollapp\\algoforcepayrollapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB6B486-0984-4875-9FAF-FB1E8C555347}|AlgoforcePayrollApp\\AlgoforcePayrollApp.csproj|solutionrelative:algoforcepayrollapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB6B486-0984-4875-9FAF-FB1E8C555347}|AlgoforcePayrollApp\\AlgoforcePayrollApp.csproj|c:\\users\\teama\\documents\\algoforcepayrollapp\\algoforcepayrollapp\\algoforcepayrollapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BB6B486-0984-4875-9FAF-FB1E8C555347}|AlgoforcePayrollApp\\AlgoforcePayrollApp.csproj|solutionrelative:algoforcepayrollapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB6B486-0984-4875-9FAF-FB1E8C555347}|AlgoforcePayrollApp\\AlgoforcePayrollApp.csproj|c:\\users\\teama\\documents\\algoforcepayrollapp\\algoforcepayrollapp\\algoforcepayrollapp\\addemployeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB6B486-0984-4875-9FAF-FB1E8C555347}|AlgoforcePayrollApp\\AlgoforcePayrollApp.csproj|solutionrelative:algoforcepayrollapp\\addemployeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB6B486-0984-4875-9FAF-FB1E8C555347}|AlgoforcePayrollApp\\AlgoforcePayrollApp.csproj|c:\\users\\teama\\documents\\algoforcepayrollapp\\algoforcepayrollapp\\algoforcepayrollapp\\addemployeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BB6B486-0984-4875-9FAF-FB1E8C555347}|AlgoforcePayrollApp\\AlgoforcePayrollApp.csproj|solutionrelative:algoforcepayrollapp\\addemployeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB6B486-0984-4875-9FAF-FB1E8C555347}|AlgoforcePayrollApp\\AlgoforcePayrollApp.csproj|c:\\users\\teama\\documents\\algoforcepayrollapp\\algoforcepayrollapp\\algoforcepayrollapp\\payrollhistorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB6B486-0984-4875-9FAF-FB1E8C555347}|AlgoforcePayrollApp\\AlgoforcePayrollApp.csproj|solutionrelative:algoforcepayrollapp\\payrollhistorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB6B486-0984-4875-9FAF-FB1E8C555347}|AlgoforcePayrollApp\\AlgoforcePayrollApp.csproj|c:\\users\\teama\\documents\\algoforcepayrollapp\\algoforcepayrollapp\\algoforcepayrollapp\\payrollhistorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BB6B486-0984-4875-9FAF-FB1E8C555347}|AlgoforcePayrollApp\\AlgoforcePayrollApp.csproj|solutionrelative:algoforcepayrollapp\\payrollhistorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB6B486-0984-4875-9FAF-FB1E8C555347}|AlgoforcePayrollApp\\AlgoforcePayrollApp.csproj|c:\\users\\teama\\documents\\algoforcepayrollapp\\algoforcepayrollapp\\algoforcepayrollapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB6B486-0984-4875-9FAF-FB1E8C555347}|AlgoforcePayrollApp\\AlgoforcePayrollApp.csproj|solutionrelative:algoforcepayrollapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB6B486-0984-4875-9FAF-FB1E8C555347}|AlgoforcePayrollApp\\AlgoforcePayrollApp.csproj|c:\\users\\teama\\documents\\algoforcepayrollapp\\algoforcepayrollapp\\algoforcepayrollapp\\payrollwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BB6B486-0984-4875-9FAF-FB1E8C555347}|AlgoforcePayrollApp\\AlgoforcePayrollApp.csproj|solutionrelative:algoforcepayrollapp\\payrollwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB6B486-0984-4875-9FAF-FB1E8C555347}|AlgoforcePayrollApp\\AlgoforcePayrollApp.csproj|c:\\users\\teama\\documents\\algoforcepayrollapp\\algoforcepayrollapp\\algoforcepayrollapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BB6B486-0984-4875-9FAF-FB1E8C555347}|AlgoforcePayrollApp\\AlgoforcePayrollApp.csproj|solutionrelative:algoforcepayrollapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEmployeeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AddEmployeeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AlgoforcePayrollApp\\AddEmployeeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AddEmployeeWindow.xaml.cs",
+              "RelativeToolTip": "AlgoforcePayrollApp\\AddEmployeeWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:38:58.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AlgoforcePayrollApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AlgoforcePayrollApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:38:56.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AlgoforcePayrollApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\MainWindow.xaml",
+              "RelativeToolTip": "AlgoforcePayrollApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T02:31:45.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEmployeeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AddEmployeeWindow.xaml",
+              "RelativeDocumentMoniker": "AlgoforcePayrollApp\\AddEmployeeWindow.xaml",
+              "ToolTip": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AddEmployeeWindow.xaml",
+              "RelativeToolTip": "AlgoforcePayrollApp\\AddEmployeeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T02:31:32.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PayrollHistoryWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\PayrollHistoryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AlgoforcePayrollApp\\PayrollHistoryWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\PayrollHistoryWindow.xaml.cs",
+              "RelativeToolTip": "AlgoforcePayrollApp\\PayrollHistoryWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:19:09.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PayrollHistoryWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\PayrollHistoryWindow.xaml",
+              "RelativeDocumentMoniker": "AlgoforcePayrollApp\\PayrollHistoryWindow.xaml",
+              "ToolTip": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\PayrollHistoryWindow.xaml",
+              "RelativeToolTip": "AlgoforcePayrollApp\\PayrollHistoryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-12T19:05:57.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AlgoforcePayrollApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\App.xaml.cs",
+              "RelativeToolTip": "AlgoforcePayrollApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:59:55.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PayrollWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\PayrollWindow.xaml",
+              "RelativeDocumentMoniker": "AlgoforcePayrollApp\\PayrollWindow.xaml",
+              "ToolTip": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\PayrollWindow.xaml",
+              "RelativeToolTip": "AlgoforcePayrollApp\\PayrollWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-24T09:52:39.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\App.xaml",
+              "RelativeDocumentMoniker": "AlgoforcePayrollApp\\App.xaml",
+              "ToolTip": "C:\\Users\\teama\\Documents\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\AlgoforcePayrollApp\\App.xaml",
+              "RelativeToolTip": "AlgoforcePayrollApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T02:31:42.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

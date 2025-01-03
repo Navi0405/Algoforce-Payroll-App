@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teama\\Documents\\AlgoforcePayrollSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5F1150-FC73-431F-AA4E-14F6525923C7}|AlgoforcePayrollSystem\\AlgoforcePayrollSystem.csproj|c:\\users\\teama\\documents\\algoforcepayrollsystem\\algoforcepayrollsystem\\data\\csvhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5F1150-FC73-431F-AA4E-14F6525923C7}|AlgoforcePayrollSystem\\AlgoforcePayrollSystem.csproj|solutionrelative:algoforcepayrollsystem\\data\\csvhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5F1150-FC73-431F-AA4E-14F6525923C7}|AlgoforcePayrollSystem\\AlgoforcePayrollSystem.csproj|c:\\users\\teama\\documents\\algoforcepayrollsystem\\algoforcepayrollsystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5F1150-FC73-431F-AA4E-14F6525923C7}|AlgoforcePayrollSystem\\AlgoforcePayrollSystem.csproj|solutionrelative:algoforcepayrollsystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5F1150-FC73-431F-AA4E-14F6525923C7}|AlgoforcePayrollSystem\\AlgoforcePayrollSystem.csproj|c:\\users\\teama\\documents\\algoforcepayrollsystem\\algoforcepayrollsystem\\algoforcepayrollsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E5F1150-FC73-431F-AA4E-14F6525923C7}|AlgoforcePayrollSystem\\AlgoforcePayrollSystem.csproj|solutionrelative:algoforcepayrollsystem\\algoforcepayrollsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5F1150-FC73-431F-AA4E-14F6525923C7}|AlgoforcePayrollSystem\\AlgoforcePayrollSystem.csproj|c:\\users\\teama\\documents\\algoforcepayrollsystem\\algoforcepayrollsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5F1150-FC73-431F-AA4E-14F6525923C7}|AlgoforcePayrollSystem\\AlgoforcePayrollSystem.csproj|solutionrelative:algoforcepayrollsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CsvHandler.cs",
+              "DocumentMoniker": "C:\\Users\\teama\\Documents\\AlgoforcePayrollSystem\\AlgoforcePayrollSystem\\Data\\CsvHandler.cs",
+              "RelativeDocumentMoniker": "AlgoforcePayrollSystem\\Data\\CsvHandler.cs",
+              "ToolTip": "C:\\Users\\teama\\Documents\\AlgoforcePayrollSystem\\AlgoforcePayrollSystem\\Data\\CsvHandler.cs",
+              "RelativeToolTip": "AlgoforcePayrollSystem\\Data\\CsvHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:38:22.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlgoforcePayrollSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\teama\\Documents\\AlgoforcePayrollSystem\\AlgoforcePayrollSystem\\AlgoforcePayrollSystem.csproj",
+              "RelativeDocumentMoniker": "AlgoforcePayrollSystem\\AlgoforcePayrollSystem.csproj",
+              "ToolTip": "C:\\Users\\teama\\Documents\\AlgoforcePayrollSystem\\AlgoforcePayrollSystem\\AlgoforcePayrollSystem.csproj",
+              "RelativeToolTip": "AlgoforcePayrollSystem\\AlgoforcePayrollSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T16:38:58.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\teama\\Documents\\AlgoforcePayrollSystem\\AlgoforcePayrollSystem\\Employee.cs",
+              "RelativeDocumentMoniker": "AlgoforcePayrollSystem\\Employee.cs",
+              "ToolTip": "C:\\Users\\teama\\Documents\\AlgoforcePayrollSystem\\AlgoforcePayrollSystem\\Employee.cs",
+              "RelativeToolTip": "AlgoforcePayrollSystem\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:39:49.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\teama\\Documents\\AlgoforcePayrollSystem\\AlgoforcePayrollSystem\\Program.cs",
+              "RelativeDocumentMoniker": "AlgoforcePayrollSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\teama\\Documents\\AlgoforcePayrollSystem\\AlgoforcePayrollSystem\\Program.cs",
+              "RelativeToolTip": "AlgoforcePayrollSystem\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:36:34.021Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿<Window x:Class="AlgoforcePayrollSystem.PayrollHistoryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Payroll History" Height="400" Width="600">
+    <Grid>
+        <StackPanel>
+            <TextBlock x:Name="EmployeeNameText" FontSize="20" Margin="10" TextAlignment="Center" />
+            <ListView x:Name="PayrollHistoryListView" Margin="10">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Pay Date" DisplayMemberBinding="{Binding PayDate}" />
+                        <GridViewColumn Header="Basic Salary" DisplayMemberBinding="{Binding BasicSalary}" />
+                        <GridViewColumn Header="Deductions" DisplayMemberBinding="{Binding Deductions}" />
+                        <GridViewColumn Header="Net Pay" DisplayMemberBinding="{Binding PayDate}" />
+                    </GridView>
+                </ListView.View>
+            </ListView> 
+        </StackPanel>
+    </Grid>
+</Window>

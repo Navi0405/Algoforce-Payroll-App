@@ -1,0 +1,4 @@
+EmployeeId,Name,HourlyRate,HoursWorked,OvertimeHours,Loan,SSSLoan,PagIbigLoan,DeMinimis
+1,employee1,900,96,1000,300,500,300,200
+2,employee2,650,48,400,0,0,0,200
+3,employee3,500,80,0,900,400,300,200
